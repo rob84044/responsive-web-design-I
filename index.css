@@ -101,7 +101,7 @@ nav {
 	align-content: center;
 }
 
-#nav-menu, #nav-logo{
+#nav-menu{
 vertical-align: middle;
 }
 
@@ -332,14 +332,13 @@ footer a:hover, footer a:active {
 	}
 	#header{
 		width: 100%;
-		flex-direction: row-reverse;
 		background-color: white;
 		opacity: .9;
 	}
 	nav {
 		margin: 0px;
 		padding-top: 15px;
-	}
+			}
 	#a, #b, #c, #d, #e, #f{
 		order: 1;
 		color:  rgb(1, 64, 136);
