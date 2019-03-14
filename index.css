@@ -101,7 +101,7 @@ nav {
 	align-content: center;
 }
 
-#nav-menu, #nav-logo{
+#nav-menu{
 vertical-align: middle;
 }
 
@@ -410,7 +410,6 @@ footer a:hover, footer a:active {
 		border-bottom: 1px solid rgb(1, 64, 136);
 		width: 100%;
 		order: 0;
-		width: 100%;
 		padding-bottom: 20px;
 	}
 	#sub{
